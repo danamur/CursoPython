@@ -1,5 +1,5 @@
-import modulos
+import modulos as xs
 
-print (modulos.mascotas)
+print (xs.mascotas)
 
-modulos.saludo('Daniel')
+xs.saludo('Daniel')
